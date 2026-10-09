@@ -1,0 +1,2 @@
+# logo-empresa
+Logotipo corporativo
